@@ -7,28 +7,23 @@
 
 <p align="center">
   <!-- Badges: replace links with your actual handles -->
-  <a href="https://www.linkedin.com/in/TODO"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/TODO"><img alt="X" src="https://img.shields.io/badge/Follow-000000.svg?logo=x&logoColor=white"></a>
-  <a href="mailto:mohit@email.com"><img alt="Email" src="https://img.shields.io/badge/Email-005FF9.svg?logo=gmail&logoColor=white"></a>
-  <a href="https://ideas-ai.dev/TODO"><img alt="Website" src="https://img.shields.io/badge/Website-Live-blue.svg"></a>
+  <a href="[https://www.linkedin.com/in/TODO](https://www.linkedin.com/in/mohit-mohit64/)"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white"></a>
+  <a href="[https://x.com/TODO](https://x.com/iammohit64)"><img alt="X" src="https://img.shields.io/badge/Follow-000000.svg?logo=x&logoColor=white"></a>
+  <a href="mailto:mohit11994cu@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-005FF9.svg?logo=gmail&logoColor=white"></a>
 </p>
 
 ---
 
 ### What I’m doing now
-- 🚀 Building **TAC** — a student-led org that ships real products and grows operators.
-- 🔗 Shipping **TaskStaking**: staking-based task platform with ZK proof hooks.
 - ⚡ **Zero Lag**: ZK-powered, decentralized task-staking + proof verification with ultra-fast UX.
-- 🎓 4th-year B.Tech CSE. Learning **C++** fundamentals again (from 14 June 2025 plan).
-- 🧪 Web3 stack: Foundry, Hardhat, Polygon zkEVM; exploring Circom/snarkjs & Halo2.
+- 🎓 3rd-year B.Tech CSE. .
+- 🧪 Web3 stack: Foundry, Hardhat, Polygon zkEVM; exploring ZeroGravity.
 
 ### Tech I use (and actually like)
 <!-- Add/remove as needed -->
 `TypeScript` · `Next.js` · `React` · `Tailwind` · `Node.js`  
 `Solidity` · `Foundry` · `Hardhat` · `Ethers.js`  
-`PostgreSQL` · `Redis` · `Prisma`  
-`Python` (data/automation) · `Matplotlib`  
-`GitHub Actions` · `Docker` · `AWS S3/CloudFront`  
+`PostgreSQL` · `Redis` · `Prisma`    
 `zk` (Circom/snarkjs, Halo2—learning)
 
 ---
@@ -61,9 +56,6 @@ If you bring speed or rigor, I’ll make room. Open an issue or email.
 
 ---
 
-### Stats (optional)
-<!-- Enable these by allowing the services on your profile or self-hosting if you prefer privacy -->
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" height="140" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="140" />
@@ -79,16 +71,7 @@ If you bring speed or rigor, I’ll make room. Open an issue or email.
 ---
 
 ### Contact
-- Email: **mohit@email.com**
+- Email: **mohit11994cu@gmail.com**
 - LinkedIn/X: **update above badges**
 - For serious collabs: send a short brief with problem, constraints, and deadline.
 
-<!--
-House Rules:
-- Keep this file under ~200 lines.
-- Use issues for requests; PRs welcome with context.
-- Replace YOUR_USERNAME and TODOs.
---><!---
-iammohit3464/iammohit3464 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
