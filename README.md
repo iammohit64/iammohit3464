@@ -57,8 +57,8 @@ If you bring speed or rigor, I’ll make room. Open an issue or email.
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_title=true" height="140" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iammohit64&show_icons=true&hide_title=true" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iammohit64&layout=compact" height="140" />
 </p>
 
 ---
