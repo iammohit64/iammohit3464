@@ -1,12 +1,4 @@
-- 👋 Hi, I’m @iammohit3464
-- 👀 I’m interested in Reading Books.
-- 🌱 I’m currently learning about Businesses.
-- 💞️ I’m looking to connect different people of same kidney.
-- 📫 How to reach me mail me on mohit11994cu@gmail.com
-- ⚡ Fun fact: I am Superman.
-- 
-
-<h1 align="center">Mohit — Builder @ The Apex Circle (TAC)</h1>
+<h1 align="center">Mohit — Blockchain Developer</h1>
 
 <p align="center">
   I build fast, practical systems at the intersection of <b>AI</b> and <b>Web3</b>.
